@@ -1368,3 +1368,105 @@
 2025-10-20 09:51:57,072 - face_recognition.face_detector - INFO - Face detection stopped
 2025-10-20 09:51:57,177 - simple_camera - INFO - Camera stopped
 2025-10-20 09:51:57,178 - face_recognition.face_detector - INFO - Face detection stopped
+2026-01-05 07:46:29,667 - face_recognition.face_encoder - WARNING - OpenCV not available - face encoding disabled
+2026-01-05 07:46:29,673 - face_recognition.face_detector - WARNING - OpenCV not available - face detection disabled
+2026-01-05 07:46:29,689 - __main__ - INFO - Database tables created
+2026-01-05 07:46:29,940 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.64:5000
+2026-01-05 07:46:29,943 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-05 07:46:29,949 - werkzeug - INFO -  * Restarting with stat
+2026-01-05 07:46:33,386 - face_recognition.face_encoder - WARNING - OpenCV not available - face encoding disabled
+2026-01-05 07:46:33,387 - face_recognition.face_detector - WARNING - OpenCV not available - face detection disabled
+2026-01-05 07:46:33,391 - __main__ - INFO - Database tables created
+2026-01-05 07:46:33,502 - werkzeug - WARNING -  * Debugger is active!
+2026-01-05 07:46:33,503 - werkzeug - INFO -  * Debugger PIN: 145-664-696
+2026-01-05 07:46:43,688 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:43] "GET / HTTP/1.1" 200 -
+2026-01-05 07:46:44,151 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/enhanced-attendance.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,382 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/browser-compatibility.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,497 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/minified-bundle.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,519 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/asset-loader.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,709 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/enhanced-toast.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,712 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/mobile-responsive.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,718 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/enhanced-toast.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,830 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/cross-browser-fixes.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,847 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/performance-optimizations.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,848 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/enhanced-forms.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,849 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/loading-states.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,865 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/enhanced-navigation.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,871 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/mobile-interactions.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,915 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/enhanced-utilities.css HTTP/1.1" 200 -
+2026-01-05 07:46:44,918 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/js/accessibility-enhancements.js HTTP/1.1" 200 -
+2026-01-05 07:46:44,930 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:44] "GET /static/css/enhanced-design-system.css HTTP/1.1" 200 -
+2026-01-05 07:46:45,026 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /static/js/performance-monitor.js HTTP/1.1" 200 -
+2026-01-05 07:46:45,026 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /static/css/enhanced-forms.css HTTP/1.1" 200 -
+2026-01-05 07:46:45,080 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-01-05 07:46:45,082 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /static/js/loading-states.js HTTP/1.1" 200 -
+2026-01-05 07:46:45,081 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /static/css/accessibility-enhancements.css HTTP/1.1" 200 -
+2026-01-05 07:46:45,384 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "GET /api/attendance_summary HTTP/1.1" 200 -
+2026-01-05 07:46:45,661 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-05 07:46:46,118 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/enhanced-toast.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,144 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/accessibility-enhancements.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,149 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/enhanced-forms.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,157 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/loading-states.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,158 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/mobile-responsive.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,225 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/enhanced-toast.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,251 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/accessibility-enhancements.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,256 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/enhanced-forms.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,298 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/js/loading-states.js HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,300 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/mobile-responsive.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,312 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/js/mobile-interactions.js HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,340 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/js/enhanced-toast.js HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,341 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/js/accessibility-enhancements.js HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,343 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/js/enhanced-forms.js HTTP/1.1[0m" 304 -
+2026-01-05 07:46:46,345 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:46:46] "[36mGET /static/css/loading-states.css HTTP/1.1[0m" 304 -
+2026-01-05 07:46:57,959 - simple_camera - INFO - Camera stopped
+2026-01-05 07:46:57,960 - face_recognition.face_detector - INFO - Face detection stopped
+2026-01-05 07:46:58,074 - simple_camera - INFO - Camera stopped
+2026-01-05 07:46:58,074 - face_recognition.face_detector - INFO - Face detection stopped
+2026-01-05 07:47:58,605 - face_recognition.face_encoder - INFO - Face encoder initialized with OpenCV
+2026-01-05 07:47:58,623 - face_recognition.face_detector - INFO - Face detector initialized with OpenCV
+2026-01-05 07:47:58,625 - __main__ - INFO - Database tables created
+2026-01-05 07:47:58,646 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.3.64:5000
+2026-01-05 07:47:58,646 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-05 07:47:58,647 - werkzeug - INFO -  * Restarting with stat
+2026-01-05 07:47:59,268 - face_recognition.face_encoder - INFO - Face encoder initialized with OpenCV
+2026-01-05 07:47:59,289 - face_recognition.face_detector - INFO - Face detector initialized with OpenCV
+2026-01-05 07:47:59,291 - __main__ - INFO - Database tables created
+2026-01-05 07:47:59,310 - werkzeug - WARNING -  * Debugger is active!
+2026-01-05 07:47:59,310 - werkzeug - INFO -  * Debugger PIN: 145-664-696
+2026-01-05 07:48:06,562 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:06] "GET / HTTP/1.1" 200 -
+2026-01-05 07:48:06,969 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:06] "[36mGET /static/css/minified-bundle.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,018 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/cross-browser-fixes.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,023 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/performance-optimizations.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,226 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,252 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/browser-compatibility.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,282 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/performance-monitor.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,337 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/asset-loader.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,353 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/enhanced-forms.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,388 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/enhanced-toast.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,461 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/loading-states.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,488 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "GET /api/attendance_summary HTTP/1.1" 200 -
+2026-01-05 07:48:07,670 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/enhanced-design-system.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,681 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/mobile-interactions.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,768 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/js/accessibility-enhancements.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,800 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/enhanced-navigation.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,803 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/enhanced-utilities.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,878 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/enhanced-attendance.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:07,958 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:07] "[36mGET /static/css/enhanced-forms.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,092 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/css/mobile-responsive.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,113 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/css/loading-states.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,118 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/css/accessibility-enhancements.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,166 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/css/enhanced-toast.css HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,295 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/js/mobile-interactions.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,299 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/js/accessibility-enhancements.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,305 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/js/enhanced-toast.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,308 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/js/loading-states.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:08,311 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:08] "[36mGET /static/js/enhanced-forms.js HTTP/1.1[0m" 304 -
+2026-01-05 07:48:38,034 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:48:38] "GET /api/attendance_summary HTTP/1.1" 200 -
+2026-01-05 07:49:08,033 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:49:08] "GET /api/attendance_summary HTTP/1.1" 200 -
+2026-01-05 07:49:38,152 - werkzeug - INFO - 127.0.0.1 - - [05/Jan/2026 07:49:38] "GET /api/attendance_summary HTTP/1.1" 200 -
